@@ -1,0 +1,11 @@
+mysql_secure_installation <<EOF
+
+y
+${ROOT_PSWD}
+${ROOT_PSWD}
+y
+y
+y
+y
+EOF
+
