@@ -1,4 +1,4 @@
-# miniRT - 42 sixth project
+# ft_server - 42 sixth project
 This project introduces the following topics:
 - PHPMyAdmin configuration and setup
 - Nginx configuration for simple HTTP -> 301 -> HTTPs redirect, TLSv1.2, etc.
